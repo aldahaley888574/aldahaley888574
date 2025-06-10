@@ -1,16 +1,14 @@
-## Hi there 👋
+<a href="#"><img align="left" alt="React" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Welcome.svg" /></a>
 
-<!--
-**aldahaley888574/aldahaley888574** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1> 💫 About Me  </h1>
 
-Here are some ideas to get you started:
+<a href="#--about-me--"><img align="left" alt="React" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Summary.svg" /></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>
+  - 🔭 Full-stack developer with 6+ years of experience designing and building scalable, high-performance web applications<br/>
+  - 📦 Blockchain enthusiast with 3+ years of experience in designing, developing, and deploying innovative solutions<br/>
+  - 📤 Scraping and Automation specialist with solid experience leveraging several tools and APIs<br/>
+  - 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS, DigitalOcean, GCP and Azure<br/>
+</h3>
+<a href="#--about-me--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
+<br/><br/>
